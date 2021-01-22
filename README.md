@@ -30,7 +30,7 @@
 - LUEGO ``pod install`` para instalar correctamente las dependencias
 
 **Si desarrollas en Android ve a la ruta android/app/build.gradle**
-- Agregar debajo de los implementation, las siguientes lineas:
+- Agregar debajo de los implementation, las siguientes lineas: <br/>
 *implementation 'androidx.appcompat:appcompat:1.1.0-rc01'*
 *implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02'*
 
