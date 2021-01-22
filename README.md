@@ -2,12 +2,15 @@
 
 **Implementación de React Navigation a un proyecto**
 
-- En este proyecto se agrega una fuente personalizada para mejorar su diseño
-- Para realizar la cotizacion consume la API de [CriptoCompare](https://min-api.cryptocompare.com/)
-
 ### Dependencias
 - Se utilizan las siguientes dependecias:
-    - React Native Picker
+    - @react-navigation/native
+    - react-native-reanimated 
+    - react-native-gesture-handler 
+    - react-native-screens 
+    - react-native-safe-area-context 
+    - @react-native-community/masked-view
+    - @react-navigation/stack
 
 ### Implementacion
 
