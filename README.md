@@ -31,7 +31,7 @@
 
 **Si desarrollas en Android ve a la ruta android/app/build.gradle**
 - Agregar debajo de los implementation, las siguientes lineas: <br/>
-*implementation 'androidx.appcompat:appcompat:1.1.0-rc01'*
+*implementation 'androidx.appcompat:appcompat:1.1.0-rc01'*<br/>
 *implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02'*
 
 5. Para finalizar en el archivo App.js agregar la siguiente dependencia al inicio del todo el código
