@@ -39,6 +39,6 @@
 
 
 
-Recuerda para ejecutar esta apliacion debes:
+Recuerda para ejecutar esta aplicación debes:
 1. utilizar ```npm install``` para instalar todas las dependencias
 2. Luego ```npx react-native run-android``` o ```npx react-native run-ios``` para lanzar la aplicacion, según el dispositivo o emulador que utilices
